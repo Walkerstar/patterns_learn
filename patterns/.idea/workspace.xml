@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bdb8cbd-ca46-43d0-8a00-cf33bd42f095" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CrowdFunding" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1avSeIhTGpZHFEVMXKVgOXciL2C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bdb8cbd-ca46-43d0-8a00-cf33bd42f095" name="Default Changelist" comment="" />
+      <created>1587614667450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587614667450</updated>
+      <workItem from="1587614682465" duration="654000" />
+      <workItem from="1587615576458" duration="1799000" />
+      <workItem from="1587625186386" duration="5000" />
+      <workItem from="1587627600373" duration="3329000" />
+      <workItem from="1587643857069" duration="4247000" />
+      <workItem from="1588316811691" duration="401000" />
+      <workItem from="1590646112985" duration="757000" />
+      <workItem from="1590718433687" duration="931000" />
+      <workItem from="1592379374557" duration="1319000" />
+      <workItem from="1593260282920" duration="1185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="114" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588316859605">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="114" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1588316859605" />
+    <state x="717" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1587647933164">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="717" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1587647933164" />
+    <state x="767" y="393" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587614849131">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="767" y="393" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587614849131" />
+    <state x="941" y="234" key="FileChooserDialogImpl" timestamp="1590719386566">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="941" y="234" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1590719386566" />
+    <state width="1130" height="223" key="GridCell.Tab.0.bottom" timestamp="1587648134756">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1130" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1587648134756" />
+    <state width="1130" height="223" key="GridCell.Tab.0.center" timestamp="1587648134755">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1130" height="223" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1587648134755" />
+    <state width="1130" height="223" key="GridCell.Tab.0.left" timestamp="1587648134755">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1130" height="223" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1587648134755" />
+    <state width="1130" height="223" key="GridCell.Tab.0.right" timestamp="1587648134756">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1130" height="223" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1587648134756" />
+    <state x="311" y="0" key="SettingsEditor" timestamp="1587615938982">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1587615938982" />
+  </component>
+</project>
